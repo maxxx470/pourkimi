@@ -1,0 +1,6 @@
+{
+  "name": "Métrio",
+  "description": "SaaS de métré et devis automatique pour architectes et ingénieurs en génie civil",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
